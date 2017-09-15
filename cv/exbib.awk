@@ -7,10 +7,10 @@ cat $1 |awk '{if(substr($1,1,1)=="@") printf $1" ";
               #else 
               #    printf "\n ";
               }' |
-                    awk '{if(index($3, "ALICE") > 0  && index($2, "2016") > 0) print $0}' |
-                    #awk '{if(index($3, "PHENIX") > 0 && index($2, "2016") > 0) print $0}' |
-                    #awk '{if(index($3, "CERES") > 0  && index($2, "2016") > 0) print $0}' |
-                    #awk '{if(index($3, "WA98") > 0   && index($2, "2016") > 0) print $0}' |
+                    #awk '{if(index($3, "ALICE") > 0  && index($1, "2017") > 0) print $2}' |
+                    awk '{if(index($3, "PHENIX") > 0 && index($1, "2017") > 0) print $2}' |
+                    #awk '{if(index($3, "CERES") > 0  && index($1, "2016") > 0) print $2}' |
+                    #awk '{if(index($3, "WA98") > 0   && index($1, "2016") > 0) print $2}' |
                     awk -F "{" '{print $2}'
 
 
