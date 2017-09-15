@@ -1,0 +1,93 @@
+\RequirePackage{lineno}
+%\setlength{\linenumbersep}{6pt}
+%\linenumbers
+
+\documentclass[12pt]{article}
+\usepackage {amsmath}
+\usepackage {amssymb}
+\usepackage {epsfig}
+\usepackage {bm}
+\usepackage {indentfirst} %indent the first par after section
+\usepackage{setspace} 
+\usepackage{color}
+\usepackage{multirow}
+
+%\doublespacing
+\oddsidemargin0cm
+\topmargin-2cm     %I recommend adding these three lines to increase the 
+\textwidth16.5cm   %amount of usable space on the page (and save trees)
+\textheight23.5cm
+
+
+\def\la{\left< }
+\def\ra{\right> }
+\def\mean#1{\ensuremath{\la#1\ra}}
+\def\meanabs#1{\ensuremath{\la|#1|\ra}}
+\def\meankv#1{\ensuremath{\la#1^2\ra}}
+\def\rms#1{\meankv{#1}}
+\def\sqrtrms#1{\ensuremath{\sqrt{\meankv{#1}}}}
+\def\ptq#1{\ensuremath{\hat{p}_{\rm T#1}}} 
+\def\ptqkv#1{\ensuremath{\hat{p}^2_{\rm T#1}}} 
+\def\vptq#1{\ensuremath{\vec{\hat{p}}_{\rm T#1}}} 
+\newcommand{\s} {\ensuremath{\sqrt{s}}}
+\def\tev{\mbox{~TeV}}
+\def\gev{\mbox{~GeV}}
+\def\eg{{\it e.g.}}
+\def\etc{{\it etc}}
+
+\def\pt#1{\ensuremath{p_{\rm T#1}}} 
+\def\ptkv#1{\ensuremath{p^2_{\rm T#1}}} 
+\def\vpt#1{\ensuremath{\vec{p}_{\rm T#1}}} 
+
+\def\kt#1{\ensuremath{k_{\rm T#1}}} 
+\def\ktkv#1{\ensuremath{k^2_{\rm T#1}}} 
+\def\vkt#1{\ensuremath{\vec{k}_{\rm T#1}}} 
+
+\def\jt#1{\ensuremath{j_{\rm T#1}}} 
+\def\jtkv#1{\ensuremath{j^2_{\rm T#1}}} 
+\def\vjt#1{\ensuremath{\vec{j}_{\rm T#1}}} 
+
+\newcommand{\mz} {\mean{z}}
+\newcommand{\zt} {\ensuremath{z_{\rm t}}}
+\newcommand{\mzt} {\mean{\zt}}
+\newcommand{\za} {\ensuremath{z_{\rm a}}}
+\newcommand{\mza} {\mean{\za}}
+\newcommand{\xe} {\ensuremath{x_{\rm E}}}
+\newcommand{\xh} {\ensuremath{x_{\rm h}}}
+\newcommand{\xhq} {\ensuremath{\hat{x}_{\rm h}}}
+\newcommand{\zkt} {\ensuremath{ \mean{\zt}\sqrtrms{\kt{}} }}
+\newcommand{\xzkt} {\ensuremath{ \xhq^{-1}\mean{\zt}\sqrtrms{\kt{}} }}
+\newcommand{\xzktfull} {\ensuremath{ \xhq^{-1}(\kt{},\xh)\mean{\zt(\kt{},\xh)}\sqrtrms{\kt{}} }}
+
+\hyphenation{ALICE}
+
+\title{Probing Soft-Hard Interactions in Relativistic Heavy Ion Collisions with ALICE Experiment at CERN LHC}
+\author{Jan Rak\\ 
+}
+
+\begin{document}
+
+\maketitle
+\begin{flushleft}
+Principal investigator : Jan Rak\\
+Duration of the project: 48 months, 1.9.2017 -- 31.08.2021\\
+Site of the research: Department of Physics, Jyv\"askyl\"a University and CERN
+\end{flushleft}
+
+%\centerline{Version 2.5}
+
+\abstract{
+Heavy ion measurements in LHC with higher center-of-mass energy have a few major advanges as compared to RHIC. In higher energy, the event multiplicity is significantly higher that enables event-by-event analysis of the medium properties. Also cross sections to produce rare hard probes, like jets, are clearly increased. Together with high luminosity and excellent performance of the LHC machine, ALICE experiment has collected high statistics of lead-lead data that enables precision data analysis in heavy ion environment.
+
+Partons that are supersonic in QGP should trigger a Mach cone shock wave. Observation of the Mach cone waves could uncover a direct experimental access to the speed of sound in QGP, one of the most fundamental properties characterizing the deconfined state of matter. However, the direct observation of Mach cones have proven to be difficult. 
+
+We present here a novel plan which aims to study in detail interaction of hard particles with quark-gluon plasma (QGP) created in relativistic heavy ion collisions. We will study event-by-event correlations of flow Fourier coefficients in events containing a hard jet or di-jet and compare the results obtained in minimum bias events. The modifications should reflect the hard-soft interactions in the medium and could provide an indirect measurement of speed of sound in the QGP phase.
+
+We know already that these correlations in minimum bias events are sensitive to other important medium quantity, ratio of shear viscosity to entropy density. On the other hand, viscosity is related to the damping rate that shock wave experiences in the medium. Hence these studies will give a contribution also to the understanding of the transport properties of the strongly interacting matter. Studying (di-)jet properties will promote jet analysis in heavy ion collisions in ALICE.
+
+Our group has also hardware responsibilities in EMCal trigger maintenance and TPC upgrade. We are applying for salaries and mobility for one post doc and one PhD-student position from Academy. The PhD-student would work on the flow analysis and make his Service Work contribution to ALICE in the TPC upgrade. The post doc would keep the EMCal trigger running and advance the jet analysis in ALICE. Once both directions are in good control, then we would combine these studies to search for the hard-soft interactions.
+}
+
+
+\end{document}
+

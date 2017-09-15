@@ -1,0 +1,52 @@
+% line 122 :  Large viscosity might damp the shock wave before the freezeout of the fireball and hence it may not show up in the final (hadronic) observables [CITATION]??. 
+@article{Bouras:2010nt,
+      author         = "Bouras, Ioannis and Molnar, Etele and Niemi, Harri and
+                        Xu, Zhe and El, Andrej and Fochler, Oliver and Lauciello,
+                        Francesco and Greiner, Carsten and Rischke, Dirk H.",
+      title          = "{Relativistic Shock Waves and Mach Cones in Viscous Gluon
+                        Matter}",
+      booktitle      = "{Proceedings, 26th Winter Workshop on Nuclear Dynamics
+                        (WWND 2010): Ocho Rios, Jamaica, January 2-9, 2010}",
+      journal        = "J. Phys. Conf. Ser.",
+      volume         = "230",
+      year           = "2010",
+      pages          = "012045",
+      doi            = "10.1088/1742-6596/230/1/012045",
+      eprint         = "1004.4615",
+      archivePrefix  = "arXiv",
+      primaryClass   = "hep-ph",
+      SLACcitation   = "%%CITATION = ARXIV:1004.4615;%%"
+}
+@article{Bouras:2012mh,
+      author         = "Bouras, I. and El, A. and Fochler, O. and Niemi, H. and
+                        Xu, Z. and Greiner, C.",
+      title          = "{Transition from ideal to viscous Mach cones in a kinetic
+                        transport approach}",
+      journal        = "Phys. Lett.",
+      volume         = "B710",
+      year           = "2012",
+      pages          = "641-646",
+      doi            = "10.1016/j.physletb.2012.03.040,
+                        10.1016/j.physletb.2013.11.059",
+      note           = "[Erratum: Phys. Lett.B728,156(2014)]",
+      eprint         = "1201.5005",
+      archivePrefix  = "arXiv",
+      primaryClass   = "nucl-th",
+      SLACcitation   = "%%CITATION = ARXIV:1201.5005;%%"
+}
+
+@article{PhysRevC.90.024904,
+  title = {Mach cones in viscous heavy-ion collisions},
+  author = {Bouras, I. and Betz, B. and Xu, Z. and Greiner, C.},
+  journal = {Phys. Rev. C},
+  volume = {90},
+  issue = {2},
+  pages = {024904},
+  numpages = {9},
+  year = {2014},
+  month = {Aug},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevC.90.024904},
+  url = {http://link.aps.org/doi/10.1103/PhysRevC.90.024904}
+}
+

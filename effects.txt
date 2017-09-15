@@ -1,0 +1,9 @@
+This research is a basic study that does not aim to immediate applications outside acamia. However, CERN research has been very beneficial for example trough its technology program, which directly benefitted (Finnish) companies particularly during the LHC construction phase. CERN projects act as a driving force of technological advancement that may find their way for example to medical instumentation. One observes in practice aging of electronics in high radiation environment.
+The experimental techniques and various tools used for the data analysis are of common interest for rapidly developing industry since they require modern technologies.
+For example, A field-programmable gate array (FPGA) coding is our main part of the trigger logic development for EMCal trigger. The advantage of using FPGA lies in that they are sometimes significantly faster for some applications because of their parallel nature and optimality in terms of the number of gates used for a certain process.
+Specific applications of FPGAs include digital signal processing, software-defined radio, ASIC prototyping, medical imaging, computer vision, speech recognition, cryptography, bioinformatics, computer hardware emulation, radio astronomy, metal detection and a growing range of other areas.
+Technological aspects related to data acquisition (DAQ) systems for particle physics experiments following the natural path of the signals from the detector to the data processing are also broad interest of modern high tech companies and any researches in general.
+The computer programming languages and software tools we are using in everyday for our researches are also needed skills for professionals in
+companies  who deal with the database, IT and many others.
+One concrete example would be mining of huge amounts of data in GRID environment.
+Two former members of our group have been hired to private sectors due to their experiences with the big data and programming skills.

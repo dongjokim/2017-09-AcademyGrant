@@ -1,0 +1,705 @@
+% This file was created with JabRef 2.7.2.
+% Encoding: ISO8859_1
+
+@ARTICLE{PhysRevD.31.53,
+  author = {Danielewicz, P. and Gyulassy, M.},
+  title = {{D}issipative phenomena in quark-gluon plasmas},
+  journal = {Phys. Rev. D},
+  year = {1985},
+  volume = {31},
+  pages = {53--62},
+  month = {Jan},
+  doi = {10.1103/PhysRevD.31.53},
+  issue = {1},
+  numpages = {0},
+  publisher = {American Physical Society},
+  url = {http://link.aps.org/doi/10.1103/PhysRevD.31.53}
+}
+
+@ARTICLE{VonGersdorff:1986tqh,
+  author = {Von Gersdorff, H. and McLerran, Larry D. and Kataja, M. and Ruuskanen,
+	P. V.},
+  title = {{Studies of the Hydrodynamic Evolution of Matter Produced in Fluctuations
+	in anti-p p Collisions and in Ultrarelativistic Nuclear Collisions}},
+  journal = {Phys. Rev.},
+  year = {1986},
+  volume = {D34},
+  pages = {794},
+  doi = {10.1103/PhysRevD.34.794},
+  reportnumber = {FERMILAB-PUB-86-013-T},
+  slaccitation = {%%CITATION = PHRVA,D34,794;%%}
+}
+
+@ARTICLE{Gyulassy:1994ew,
+  author = {Gyulassy, Miklos and Wang, Xin-Nian},
+  title = {{HIJING 1.0: A Monte Carlo program for parton and particle production
+	in high-energy hadronic and nuclear collisions}},
+  journal = {Comput. Phys. Commun.},
+  year = {1994},
+  volume = {83},
+  pages = {307},
+  archiveprefix = {arXiv},
+  doi = {10.1016/0010-4655(94)90057-4},
+  eprint = {nucl-th/9502021},
+  primaryclass = {nucl-th},
+  reportnumber = {LBL-34246},
+  slaccitation = {%%CITATION = NUCL-TH/9502021;%%}
+}
+
+@ARTICLE{Poskanzer:1998yz,
+  author = {Poskanzer, Arthur M. and Voloshin, S. A.},
+  title = {{Methods for analyzing anisotropic flow in relativistic nuclear collisions}},
+  journal = {Phys. Rev.},
+  year = {1998},
+  volume = {C58},
+  pages = {1671-1678},
+  archiveprefix = {arXiv},
+  doi = {10.1103/PhysRevC.58.1671},
+  eprint = {nucl-ex/9805001},
+  primaryclass = {nucl-ex},
+  slaccitation = {%%CITATION = NUCL-EX/9805001;%%}
+}
+
+@ARTICLE{Dellacasa:1999kf,
+  author = {Dellacasa, G. and others},
+  title = {{ALICE technical design report of the inner tracking system (ITS)}},
+  year = {1999},
+  collaboration = {ALICE},
+  reportnumber = {CERN-LHCC-99-12},
+  slaccitation = {%%CITATION = CERN-LHCC-99-12;%%}
+}
+
+@ARTICLE{Lin:2004en,
+  author = {Lin, Zi-Wei and Ko, Che Ming and Li, Bao-An and Zhang, Bin and Pal,
+	Subrata},
+  title = {{A Multi-phase transport model for relativistic heavy ion collisions}},
+  journal = {Phys. Rev.},
+  year = {2005},
+  volume = {C72},
+  pages = {064901},
+  archiveprefix = {arXiv},
+  doi = {10.1103/PhysRevC.72.064901},
+  eprint = {nucl-th/0411110},
+  primaryclass = {nucl-th},
+  slaccitation = {%%CITATION = NUCL-TH/0411110;%%}
+}
+
+@ARTICLE{PhysRevLett.94.111601,
+  author = {Kovtun, P. K. and Son, D. T. and Starinets, A. O.},
+  title = {{V}iscosity in {S}trongly {I}nteracting {Q}uantum {F}ield {T}heories
+	from {B}lack {H}ole {P}hysics},
+  journal = {Phys. Rev. Lett.},
+  year = {2005},
+  volume = {94},
+  pages = {111601},
+  month = {Mar},
+  doi = {10.1103/PhysRevLett.94.111601},
+  issue = {11},
+  numpages = {4},
+  publisher = {American Physical Society},
+  url = {http://link.aps.org/doi/10.1103/PhysRevLett.94.111601}
+}
+
+@ARTICLE{PhysRevLett.95.152301,
+  author = {Adams et al.},
+  title = {{D}istributions of {C}harged {H}adrons {A}ssociated with {H}igh {T}ransverse
+	{M}omentum {P}articles in $pp$ and $\mathrm{Au}+\mathrm{Au}$ {C}ollisions
+	at $\sqrt{{s}_NN}=200\text{ }\text{ }\mathrm{GeV}$},
+  journal = {Phys. Rev. Lett.},
+  year = {2005},
+  volume = {95},
+  pages = {152301},
+  month = {Oct},
+  collaboration = {STAR Collaboration},
+  comment = {mach},
+  doi = {10.1103/PhysRevLett.95.152301},
+  issue = {15},
+  numpages = {6},
+  publisher = {American Physical Society},
+  url = {http://link.aps.org/doi/10.1103/PhysRevLett.95.152301}
+}
+
+@ARTICLE{Lokhtin2006,
+  author = {Lokhtin, I. P. and Snigirev, A. M.},
+  title = {{A} model of jet quenching in ultrarelativistic heavy ion collisionsand
+	high- p{T} hadron spectra at {RHIC}},
+  journal = {The European Physical Journal C - Particles and Fields},
+  year = {2006},
+  volume = {45},
+  pages = {211--217},
+  number = {1},
+  abstract = {The method to simulate the rescattering and energy loss of hard partons
+	in ultrarelativistic heavy ion collisions has been developed. The
+	model is a fast Monte Carlo tool introduced to modify a standard
+	PYTHIA jet event. The full heavy ion event is obtained as a superposition
+	of a soft hydro-type state and hard multi-jets. The model is applied
+	to the analysis of the jet quenching pattern at RHIC.},
+  doi = {10.1140/epjc/s2005-02426-3},
+  issn = {1434-6052},
+  url = {http://dx.doi.org/10.1140/epjc/s2005-02426-3}
+}
+
+@ARTICLE{PhysRevLett.97.052301,
+  author = {Adler et al.},
+  title = {{D}ense-{M}edium {M}odifications to {J}et-{I}nduced {H}adron {P}air
+	{D}istributions in $\mathrm{Au}+\mathrm{Au}$ {C}ollisions at $\sqrt{{s}_NN}=200\text{
+	}\text{ }\mathrm{GeV}$},
+  journal = {Phys. Rev. Lett.},
+  year = {2006},
+  volume = {97},
+  pages = {052301},
+  month = {Aug},
+  collaboration = {PHENIX Collaboration},
+  doi = {10.1103/PhysRevLett.97.052301},
+  issue = {5},
+  numpages = {6},
+  publisher = {American Physical Society},
+  url = {http://link.aps.org/doi/10.1103/PhysRevLett.97.052301}
+}
+
+@ARTICLE{PhysRevLett.98.092301,
+  author = {Lacey, Roy A. and Ajitanand, N. N. and Alexander, J. M. and Chung,
+	P. and Holzmann, W. G. and Issah, M. and Taranenko, A. and Danielewicz,
+	P. and St\"ocker, Horst},
+  title = {{H}as the {QCD} {C}ritical {P}oint {B}een {S}ignaled by {O}bservations
+	at the {BNL} {R}elativistic {H}eavy {I}on {C}ollider?},
+  journal = {Phys. Rev. Lett.},
+  year = {2007},
+  volume = {98},
+  pages = {092301},
+  month = {Mar},
+  doi = {10.1103/PhysRevLett.98.092301},
+  issue = {9},
+  numpages = {4},
+  publisher = {American Physical Society},
+  url = {http://link.aps.org/doi/10.1103/PhysRevLett.98.092301}
+}
+
+@ARTICLE{PhysRevLett.99.172301,
+  author = {Romatschke, Paul and Romatschke, Ulrike},
+  title = {{V}iscosity {I}nformation from {R}elativistic {N}uclear {C}ollisions:
+	{H}ow {P}erfect is the {F}luid {O}bserved at {RHIC}?},
+  journal = {Phys. Rev. Lett.},
+  year = {2007},
+  volume = {99},
+  pages = {172301},
+  month = {Oct},
+  doi = {10.1103/PhysRevLett.99.172301},
+  issue = {17},
+  numpages = {4},
+  publisher = {American Physical Society},
+  url = {http://link.aps.org/doi/10.1103/PhysRevLett.99.172301}
+}
+
+@ARTICLE{PhysRevLett.101.082302,
+  author = {Xu, Zhe and Greiner, Carsten and St\"ocker, Horst},
+  title = {{P}erturbative {QCD} {C}alculations of {E}lliptic {F}low and {S}hear
+	{V}iscosity in $\mathrm{Au}+\mathrm{Au}$ {C}ollisions at $\sqrt{{s}_NN}=200\text{
+	}\text{ }\mathrm{GeV}$},
+  journal = {Phys. Rev. Lett.},
+  year = {2008},
+  volume = {101},
+  pages = {082302},
+  month = {Aug},
+  doi = {10.1103/PhysRevLett.101.082302},
+  issue = {8},
+  numpages = {4},
+  publisher = {American Physical Society},
+  url = {http://link.aps.org/doi/10.1103/PhysRevLett.101.082302}
+}
+
+@ARTICLE{Armesto:2008qh,
+  author = {Armesto, N. and Cunqueiro, L. and Salgado, C. A.},
+  title = {{Implementation of a medium-modified parton shower algorithm}},
+  journal = {Eur. Phys. J.},
+  year = {2009},
+  volume = {C61},
+  pages = {775-778},
+  archiveprefix = {arXiv},
+  booktitle = {{Proceedings, 3rd International Conference on Hard and Electromagnetic
+	Probes of High-Energy Nuclear Collisions (Hard Probes 2008): Illa
+	da Toxa, Spain, June 8-14, 2008}},
+  doi = {10.1140/epjc/s10052-008-0824-y},
+  eprint = {0809.4433},
+  primaryclass = {hep-ph},
+  slaccitation = {%%CITATION = ARXIV:0809.4433;%%}
+}
+
+@ARTICLE{Bouras:2010nt,
+  author = {Bouras, Ioannis and Molnar, Etele and Niemi, Harri and Xu, Zhe and
+	El, Andrej and Fochler, Oliver and Lauciello, Francesco and Greiner,
+	Carsten and Rischke, Dirk H.},
+  title = {{Relativistic Shock Waves and Mach Cones in Viscous Gluon Matter}},
+  journal = {J. Phys. Conf. Ser.},
+  year = {2010},
+  volume = {230},
+  pages = {012045},
+  archiveprefix = {arXiv},
+  booktitle = {{Proceedings, 26th Winter Workshop on Nuclear Dynamics (WWND 2010):
+	Ocho Rios, Jamaica, January 2-9, 2010}},
+  doi = {10.1088/1742-6596/230/1/012045},
+  eprint = {1004.4615},
+  primaryclass = {hep-ph},
+  slaccitation = {%%CITATION = ARXIV:1004.4615;%%}
+}
+
+@ARTICLE{Aamodt:2010jd,
+  author = {Aamodt, K. and others},
+  title = {{Suppression of Charged Particle Production at Large Transverse Momentum
+	in Central Pb-Pb Collisions at $\sqrt{s_NN} =$ 2.76 TeV}},
+  journal = {Phys. Lett.},
+  year = {2011},
+  volume = {B696},
+  pages = {30-39},
+  archiveprefix = {arXiv},
+  collaboration = {ALICE},
+  doi = {10.1016/j.physletb.2010.12.020},
+  eprint = {1012.1004},
+  primaryclass = {nucl-ex},
+  reportnumber = {CERN-PH-EP-ALICE-2010-004},
+  slaccitation = {%%CITATION = ARXIV:1012.1004;%%}
+}
+
+@ARTICLE{ALICE:2011ab,
+  author = {Aamodt, K. and others},
+  title = {{Higher harmonic anisotropic flow measurements of charged particles
+	in Pb-Pb collisions at $\sqrt{s_NN}$=2.76 TeV}},
+  journal = {Phys. Rev. Lett.},
+  year = {2011},
+  volume = {107},
+  pages = {032301},
+  archiveprefix = {arXiv},
+  collaboration = {ALICE},
+  doi = {10.1103/PhysRevLett.107.032301},
+  eprint = {1105.3865},
+  primaryclass = {nucl-ex},
+  reportnumber = {CERN-PH-EP-2011-073},
+  slaccitation = {%%CITATION = ARXIV:1105.3865;%%}
+}
+
+@ARTICLE{Bilandzic:2010jr,
+  author = {Bilandzic, Ante and Snellings, Raimond and Voloshin, Sergei},
+  title = {{Flow analysis with cumulants: Direct calculations}},
+  journal = {Phys. Rev.},
+  year = {2011},
+  volume = {C83},
+  pages = {044913},
+  archiveprefix = {arXiv},
+  doi = {10.1103/PhysRevC.83.044913},
+  eprint = {1010.0233},
+  primaryclass = {nucl-ex},
+  slaccitation = {%%CITATION = ARXIV:1010.0233;%%}
+}
+
+@ARTICLE{Chatrchyan:2011sx,
+  author = {Chatrchyan, Serguei and others},
+  title = {{Observation and studies of jet quenching in PbPb collisions at nucleon-nucleon
+	center-of-mass energy = 2.76 TeV}},
+  journal = {Phys. Rev.},
+  year = {2011},
+  volume = {C84},
+  pages = {024906},
+  archiveprefix = {arXiv},
+  collaboration = {CMS},
+  doi = {10.1103/PhysRevC.84.024906},
+  eprint = {1102.1957},
+  primaryclass = {nucl-ex},
+  reportnumber = {CERN-PH-EP-2011-001, CMS-HIN-10-004},
+  slaccitation = {%%CITATION = ARXIV:1102.1957;%%}
+}
+
+@ARTICLE{PhysRevLett.106.122002,
+  author = {Mehtar-Tani, Yacine and Salgado, Carlos A. and Tywoniuk, Konrad},
+  title = {{A}ntiangular {O}rdering of {G}luon {R}adiation in {QCD} {M}edia},
+  journal = {Phys. Rev. Lett.},
+  year = {2011},
+  volume = {106},
+  pages = {122002},
+  month = {Mar},
+  doi = {10.1103/PhysRevLett.106.122002},
+  issue = {12},
+  numpages = {4},
+  publisher = {American Physical Society},
+  url = {http://link.aps.org/doi/10.1103/PhysRevLett.106.122002}
+}
+
+@ARTICLE{Renk:2010zx,
+  author = {Renk, Thorsten},
+  title = {{YaJEM: a Monte Carlo code for in-medium shower evolution}},
+  journal = {Int. J. Mod. Phys.},
+  year = {2011},
+  volume = {E20},
+  pages = {1594-1599},
+  archiveprefix = {arXiv},
+  booktitle = {{Jets in proton-proton and heavy-ion collisions. Proceedings, International
+	Workshop, Prague, Czech Republic, August 12-14, 2010}},
+  doi = {10.1142/S0218301311019933},
+  eprint = {1009.3740},
+  primaryclass = {hep-ph},
+  slaccitation = {%%CITATION = ARXIV:1009.3740;%%}
+}
+
+@ARTICLE{Renk:2011gj,
+  author = {Renk, Thorsten and Holopainen, Hannu and Paatelainen, Risto and Eskola,
+	Kari J.},
+  title = {{Systematics of the charged hadron $p_T$ spectrum and the nuclear
+	suppression factor in heavy-ion collisions from $\sqrt{s}=200$ GeV
+	to $\sqrt{s}=2.76$ TeV}},
+  journal = {Phys. Rev.},
+  year = {2011},
+  volume = {C84},
+  pages = {014906},
+  archiveprefix = {arXiv},
+  doi = {10.1103/PhysRevC.84.014906},
+  eprint = {1103.5308},
+  primaryclass = {hep-ph},
+  slaccitation = {%%CITATION = ARXIV:1103.5308;%%}
+}
+
+@ARTICLE{Bouras:2012mh,
+  author = {Bouras, I. and El, A. and Fochler, O. and Niemi, H. and Xu, Z. and
+	Greiner, C.},
+  title = {{Transition from ideal to viscous Mach cones in a kinetic transport
+	approach}},
+  journal = {Phys. Lett.},
+  year = {2012},
+  volume = {B710},
+  pages = {641-646},
+  note = {[Erratum: Phys. Lett.B728,156(2014)]},
+  archiveprefix = {arXiv},
+  doi = {10.1016/j.physletb.2012.03.040, 10.1016/j.physletb.2013.11.059},
+  eprint = {1201.5005},
+  primaryclass = {nucl-th},
+  slaccitation = {%%CITATION = ARXIV:1201.5005;%%}
+}
+
+@ARTICLE{PhysRevC.86.044908,
+  author = {Teaney, D. and Yan, L.},
+  title = {{N}onlinearities in the harmonic spectrum of heavy ion collisions
+	with ideal and viscous hydrodynamics},
+  journal = {Phys. Rev. C},
+  year = {2012},
+  volume = {86},
+  pages = {044908},
+  month = {Oct},
+  doi = {10.1103/PhysRevC.86.044908},
+  issue = {4},
+  numpages = {11},
+  publisher = {American Physical Society},
+  url = {http://link.aps.org/doi/10.1103/PhysRevC.86.044908}
+}
+
+@ARTICLE{Gale:2012rq,
+  author = {Gale, Charles and Jeon, Sangyong and Schenke, Björn and Tribedy,
+	Prithwish and Venugopalan, Raju},
+  title = {{Event-by-event anisotropic flow in heavy-ion collisions from combined
+	Yang-Mills and viscous fluid dynamics}},
+  journal = {Phys. Rev. Lett.},
+  year = {2013},
+  volume = {110},
+  pages = {012302},
+  number = {1},
+  archiveprefix = {arXiv},
+  doi = {10.1103/PhysRevLett.110.012302},
+  eprint = {1209.6330},
+  primaryclass = {nucl-th},
+  slaccitation = {%%CITATION = ARXIV:1209.6330;%%}
+}
+
+@ARTICLE{Luzum:2012wu,
+  author = {Luzum, Matthew and Ollitrault, Jean-Yves},
+  title = {{Extracting the shear viscosity of the quark-gluon plasma from flow
+	in ultra-central heavy-ion collisions}},
+  journal = {Nucl. Phys.},
+  year = {2013},
+  volume = {A904-905},
+  pages = {377c-380c},
+  archiveprefix = {arXiv},
+  booktitle = {{Proceedings, 23rd International Conference on Ultrarelativistic
+	Nucleus-Nucleus Collisions : Quark Matter 2012 (QM 2012): Washington,
+	DC, USA, August 13-18, 2012}},
+  doi = {10.1016/j.nuclphysa.2013.02.028},
+  eprint = {1210.6010},
+  primaryclass = {nucl-th},
+  slaccitation = {%%CITATION = ARXIV:1210.6010;%%}
+}
+
+@ARTICLE{Aad:2014fla,
+  author = {Aad, Georges and others},
+  title = {{Measurement of event-plane correlations in $\sqrt{s_NN}=2.76$ TeV
+	lead-lead collisions with the ATLAS detector}},
+  journal = {Phys. Rev.},
+  year = {2014},
+  volume = {C90},
+  pages = {024905},
+  number = {2},
+  archiveprefix = {arXiv},
+  collaboration = {ATLAS},
+  doi = {10.1103/PhysRevC.90.024905},
+  eprint = {1403.0489},
+  primaryclass = {hep-ex},
+  reportnumber = {CERN-PH-EP-2014-021},
+  slaccitation = {%%CITATION = ARXIV:1403.0489;%%}
+}
+
+@ARTICLE{Abelev:2013kqa,
+  author = {Abelev, B. and others},
+  title = {{Measurement of charged jet suppression in Pb-Pb collisions at $\sqrt{s_NN}$
+	= 2.76 TeV}},
+  journal = {JHEP},
+  year = {2014},
+  volume = {03},
+  pages = {013},
+  archiveprefix = {arXiv},
+  collaboration = {ALICE},
+  doi = {10.1007/JHEP03(2014)013},
+  eprint = {1311.0633},
+  primaryclass = {nucl-ex},
+  reportnumber = {CERN-PH-EP-2013-205},
+  slaccitation = {%%CITATION = ARXIV:1311.0633;%%}
+}
+
+@ARTICLE{Burke:2013yra,
+  author = {Burke, Karen M. and others},
+  title = {{Extracting the jet transport coefficient from jet quenching in high-energy
+	heavy-ion collisions}},
+  journal = {Phys. Rev.},
+  year = {2014},
+  volume = {C90},
+  pages = {014909},
+  number = {1},
+  archiveprefix = {arXiv},
+  collaboration = {JET},
+  doi = {10.1103/PhysRevC.90.014909},
+  eprint = {1312.5003},
+  primaryclass = {nucl-th},
+  reportnumber = {NT-LBNL-13-011},
+  slaccitation = {%%CITATION = ARXIV:1312.5003;%%}
+}
+
+@ARTICLE{Chatrchyan:2013kwa,
+  author = {Chatrchyan, Serguei and others},
+  title = {{Modification of jet shapes in PbPb collisions at $\sqrt {s_NN} =
+	2.76$ TeV}},
+  journal = {Phys. Lett.},
+  year = {2014},
+  volume = {B730},
+  pages = {243-263},
+  archiveprefix = {arXiv},
+  collaboration = {CMS},
+  doi = {10.1016/j.physletb.2014.01.042},
+  eprint = {1310.0878},
+  primaryclass = {nucl-ex},
+  reportnumber = {CERN-PH-EP-2013-189, CMS-HIN-12-002},
+  slaccitation = {%%CITATION = ARXIV:1310.0878;%%}
+}
+
+@ARTICLE{Chatrchyan:2014ava,
+  author = {Chatrchyan, Serguei and others},
+  title = {{Measurement of jet fragmentation in PbPb and pp collisions at $\sqrt{s_NN}=2.76$
+	TeV}},
+  journal = {Phys. Rev.},
+  year = {2014},
+  volume = {C90},
+  pages = {024908},
+  number = {2},
+  archiveprefix = {arXiv},
+  collaboration = {CMS},
+  doi = {10.1103/PhysRevC.90.024908},
+  eprint = {1406.0932},
+  primaryclass = {nucl-ex},
+  reportnumber = {CMS-HIN-12-013, CERN-PH-EP-2014-100},
+  slaccitation = {%%CITATION = ARXIV:1406.0932;%%}
+}
+
+@ARTICLE{PhysRevC.90.024904,
+  author = {Bouras, I. and Betz, B. and Xu, Z. and Greiner, C.},
+  title = {{M}ach cones in viscous heavy-ion collisions},
+  journal = {Phys. Rev. C},
+  year = {2014},
+  volume = {90},
+  pages = {024904},
+  month = {Aug},
+  doi = {10.1103/PhysRevC.90.024904},
+  issue = {2},
+  numpages = {9},
+  publisher = {American Physical Society},
+  url = {http://link.aps.org/doi/10.1103/PhysRevC.90.024904}
+}
+
+@ARTICLE{Tachibana:2014lja,
+  author = {Tachibana, Yasuki and Hirano, Tetsufumi},
+  title = {{Momentum transport away from a jet in an expanding nuclear medium}},
+  journal = {Phys. Rev.},
+  year = {2014},
+  volume = {C90},
+  pages = {021902},
+  number = {2},
+  archiveprefix = {arXiv},
+  doi = {10.1103/PhysRevC.90.021902},
+  eprint = {1402.6469},
+  primaryclass = {nucl-th},
+  reportnumber = {RIKEN-QHP-116},
+  slaccitation = {%%CITATION = ARXIV:1402.6469;%%}
+}
+
+@ARTICLE{Abelev:2014pua,
+  author = {Abelev, Betty Bezverkhny and others},
+  title = {{Elliptic flow of identified hadrons in Pb-Pb collisions at $\sqrt{s_{\rm
+	NN}}=2.76$~TeV}},
+  journal = {JHEP},
+  year = {2015},
+  volume = {06},
+  pages = {190},
+  archiveprefix = {arXiv},
+  collaboration = {ALICE},
+  doi = {10.1007/JHEP06(2015)190},
+  eprint = {1405.4632},
+  primaryclass = {nucl-ex},
+  reportnumber = {CERN-PH-EP-2014-104},
+  slaccitation = {%%CITATION = ARXIV:1405.4632;%%}
+}
+
+@ARTICLE{Adam:2015ewa,
+  author = {Adam, Jaroslav and others},
+  title = {{Measurement of jet suppression in central Pb-Pb collisions at $\sqrt{s_{\rm
+	NN}}$ = 2.76 TeV}},
+  journal = {Phys. Lett.},
+  year = {2015},
+  volume = {B746},
+  pages = {1-14},
+  archiveprefix = {arXiv},
+  collaboration = {ALICE},
+  doi = {10.1016/j.physletb.2015.04.039},
+  eprint = {1502.01689},
+  primaryclass = {nucl-ex},
+  reportnumber = {CERN-PH-EP-2015-023},
+  slaccitation = {%%CITATION = ARXIV:1502.01689;%%}
+}
+
+@ARTICLE{Bhalerao:2014xra,
+  author = {Bhalerao, Rajeev S. and Ollitrault, Jean-Yves and Pal, Subrata},
+  title = {{Characterizing flow fluctuations with moments}},
+  journal = {Phys. Lett.},
+  year = {2015},
+  volume = {B742},
+  pages = {94-98},
+  archiveprefix = {arXiv},
+  doi = {10.1016/j.physletb.2015.01.019},
+  eprint = {1411.5160},
+  primaryclass = {nucl-th},
+  reportnumber = {SACLAY-T14-233},
+  slaccitation = {%%CITATION = ARXIV:1411.5160;%%}
+}
+
+@ARTICLE{He:2015pra,
+  author = {He, Yayun and Luo, Tan and Wang, Xin-Nian and Zhu, Yan},
+  title = {{Linear Boltzmann Transport for Jet Propagation in the Quark-Gluon
+	Plasma: Elastic Processes and Medium Recoil}},
+  journal = {Phys. Rev.},
+  year = {2015},
+  volume = {C91},
+  pages = {054908},
+  archiveprefix = {arXiv},
+  doi = {10.1103/PhysRevC.91.054908},
+  eprint = {1503.03313},
+  primaryclass = {nucl-th},
+  slaccitation = {%%CITATION = ARXIV:1503.03313;%%}
+}
+
+@ARTICLE{Zimmermann:2015owa,
+  author = {Zimmermann, Markus},
+  title = {{The ALICE analysis train system}},
+  journal = {J. Phys. Conf. Ser.},
+  year = {2015},
+  volume = {608},
+  pages = {012019},
+  number = {1},
+  archiveprefix = {arXiv},
+  booktitle = {{Proceedings, 16th International workshop on Advanced Computing and
+	Analysis Techniques in physics (ACAT 14): Prague, Czech Republic,
+	September 1-5, 2014}},
+  collaboration = {ALICE},
+  doi = {10.1088/1742-6596/608/1/012019},
+  eprint = {1502.06381},
+  primaryclass = {hep-ex},
+  slaccitation = {%%CITATION = ARXIV:1502.06381;%%}
+}
+
+@ARTICLE{ALICE:2016kpq,
+  author = {Adam, Jaroslav and others},
+  title = {{Correlated event-by-event fluctuations of flow harmonics in Pb-Pb
+	collisions at $\sqrt{s_{_{\rm NN}}}=2.76$ TeV}},
+  year = {2016},
+  archiveprefix = {arXiv},
+  collaboration = {ALICE},
+  eprint = {1604.07663},
+  primaryclass = {nucl-ex},
+  reportnumber = {CERN-EP-2016-102},
+  slaccitation = {%%CITATION = ARXIV:1604.07663;%%}
+}
+
+@ARTICLE{Khachatryan:2016erx,
+  author = {Khachatryan, Vardan and others},
+  title = {{Correlations between jets and charged particles in PbPb and pp collisions
+	at $ \sqrt{s_{\mathrmNN}}=2.76 $ TeV}},
+  journal = {JHEP},
+  year = {2016},
+  volume = {02},
+  pages = {156},
+  archiveprefix = {arXiv},
+  collaboration = {CMS},
+  doi = {10.1007/JHEP02(2016)156},
+  eprint = {1601.00079},
+  primaryclass = {nucl-ex},
+  reportnumber = {CMS-HIN-14-016, CERN-PH-EP-2015-329},
+  slaccitation = {%%CITATION = ARXIV:1601.00079;%%}
+}
+
+@ARTICLE{Khachatryan:2016tfj,
+  author = {Khachatryan, Vardan and others},
+  title = {{Decomposing transverse momentum balance contributions for quenched
+	jets in PbPb collisions at sqrt(s[NN]) = 2.76 TeV}},
+  year = {2016},
+  archiveprefix = {arXiv},
+  collaboration = {CMS},
+  eprint = {1609.02466},
+  primaryclass = {nucl-ex},
+  reportnumber = {CMS-HIN-15-011, CERN-EP-2016-199},
+  slaccitation = {%%CITATION = ARXIV:1609.02466;%%}
+}
+
+@ARTICLE{Niemi:2015qia,
+  author = {Niemi, H. and Eskola, K. J. and Paatelainen, R.},
+  title = {{Event-by-event fluctuations in a perturbative QCD + saturation +
+	hydrodynamics model: Determining QCD matter shear viscosity in ultrarelativistic
+	heavy-ion collisions}},
+  journal = {Phys. Rev.},
+  year = {2016},
+  volume = {C93},
+  pages = {024907},
+  number = {2},
+  archiveprefix = {arXiv},
+  doi = {10.1103/PhysRevC.93.024907},
+  eprint = {1505.02677},
+  primaryclass = {hep-ph},
+  slaccitation = {%%CITATION = ARXIV:1505.02677;%%}
+}
+
+@ARTICLE{Tachibana:2015qxa,
+  author = {Tachibana, Yasuki and Hirano, Tetsufumi},
+  title = {{Interplay between Mach cone and radial expansion and its signal
+	in γ-jet events}},
+  journal = {Phys. Rev.},
+  year = {2016},
+  volume = {C93},
+  pages = {054907},
+  number = {5},
+  archiveprefix = {arXiv},
+  doi = {10.1103/PhysRevC.93.054907},
+  eprint = {1510.06966},
+  primaryclass = {nucl-th},
+  reportnumber = {RIKEN-QHP-204},
+  slaccitation = {%%CITATION = ARXIV:1510.06966;%%}
+}
+
